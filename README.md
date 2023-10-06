@@ -8,7 +8,7 @@ News based on this analysis: <https://www.heraldscotland.com/news/23696053.data-
 
 ## Main visualisation
 
-![Travel time changes in Glasgow before and after the cuts planned.](plots/isochrone_centre.png)
+![Travel time changes in Glasgow before and after the cuts planned.](./plots/ischrone_centre.png)
 
 
 # Licence
